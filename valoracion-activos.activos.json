@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "668ec468d913a8ade21b2347"
+  },
+  "tipo": "Hardware",
+  "descripcion": "Servidor Dell PowerEdge",
+  "categoria": "Infraestructura",
+  "valoracion": 85,
+  "riesgo": 70,
+  "impacto": 90
+},
+{
+  "_id": {
+    "$oid": "668ec468d913a8ade21b2348"
+  },
+  "tipo": "Software",
+  "descripcion": "Microsoft Office Suite",
+  "categoria": "Aplicaciones",
+  "valoracion": 75,
+  "riesgo": 60,
+  "impacto": 80
+},
+{
+  "_id": {
+    "$oid": "668ec468d913a8ade21b2349"
+  },
+  "tipo": "Información",
+  "descripcion": "Base de datos de clientes",
+  "categoria": "Datos",
+  "valoracion": 95,
+  "riesgo": 80,
+  "impacto": 100
+},
+{
+  "_id": {
+    "$oid": "668ec468d913a8ade21b234a"
+  },
+  "tipo": "Hardware",
+  "descripcion": "Router Cisco",
+  "categoria": "Infraestructura",
+  "valoracion": 70,
+  "riesgo": 50,
+  "impacto": 75
+},
+{
+  "_id": {
+    "$oid": "668ec468d913a8ade21b234b"
+  },
+  "tipo": "Software",
+  "descripcion": "Sistema de gestión ERP",
+  "categoria": "Aplicaciones",
+  "valoracion": 90,
+  "riesgo": 85,
+  "impacto": 95
+},
+{
+  "_id": {
+    "$oid": "668eef1990f50aa5cf1ea99e"
+  },
+  "tipo": "Hardware",
+  "descripcion": "Servidor principal",
+  "categoria": "Infraestructura",
+  "valoracion": 9,
+  "riesgo": 504,
+  "impacto": 8,
+  "__v": 0
+}]
